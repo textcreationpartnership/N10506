@@ -120,14 +120,15 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:013319_0000_0F8FFAB80E53DCA8"/>
-            <pb facs="tcp:013319_0001_0F904ED8F1A1EAD8"/>
+            <pb facs="unknown:013319_0000_0F8FFAB80E53DCA8"/>
+            <pb facs="unknown:013319_0001_0F904ED8F1A1EAD8"/>
             <p>THE MANUAL EXERCISE AS ORDERED BY HIS MAJESTY IN 1764.</p>
             <p>TOGETHER WITH PLANS and EXPLANATIONS Of the Method generally practis'd AT REVIEWS and FIELD-DAYS.</p>
             <p>BOSTON, NEW-ENGLAND: Printed by T. and J. FLEET, at the Heart and Crown in Cornhill.</p>
          </div>
          <div type="resolution">
-            <pb facs="tcp:013319_0002_0F904EDA4DCF5EB0" rendition="simple:additions"/>
+            <pb facs="unknown:013319_0002_0F904EDA4DCF5EB0"
+                rendition="simple:additions"/>
             <head>In Provincial Congress at Cambridge, October <hi>29, 1774.</hi>
             </head>
             <p>RESOLVED, that it be recommended to the Inhabitants of this Province, that in Order to their prefecting themselves in the Military Art, they proceed in the Method ordered by His Majesty in the Year 1764; it being in the Opinion of this Congress, the best calculated for Appearance and Defence.</p>
@@ -139,7 +140,7 @@
       </front>
       <body>
          <div type="part">
-            <pb facs="tcp:013319_0003_0F904EDA6BB7E8E8"/>
+            <pb facs="unknown:013319_0003_0F904EDA6BB7E8E8"/>
             <head>THE Manual Exercise AS ORDERED By His MAJESTY in 1764.</head>
             <p>
                <table>
@@ -178,7 +179,7 @@
                </table>
             </p>
             <p>
-               <pb n="4" facs="tcp:013319_0004_0F904EDB27AF0EC0"/>
+               <pb n="4" facs="unknown:013319_0004_0F904EDB27AF0EC0"/>
                <table>
                   <row>
                      <cell role="label">
@@ -230,7 +231,7 @@
                </table>
             </p>
             <p>
-               <pb n="5" facs="tcp:013319_0005_0F904EDBE5642C90"/>
+               <pb n="5" facs="unknown:013319_0005_0F904EDBE5642C90"/>
                <table>
                   <row>
                      <cell role="label">
@@ -281,7 +282,7 @@
                </table>
             </p>
             <p>
-               <pb n="6" facs="tcp:013319_0006_0F904EDCA9851AC8"/>
+               <pb n="6" facs="unknown:013319_0006_0F904EDCA9851AC8"/>
                <table>
                   <row>
                      <cell role="label">
@@ -316,7 +317,7 @@
                </table>
             </p>
             <p>
-               <pb n="7" facs="tcp:013319_0007_0F904EDD651001B0"/>
+               <pb n="7" facs="unknown:013319_0007_0F904EDD651001B0"/>
                <table>
                   <row>
                      <cell role="label">
@@ -370,7 +371,7 @@
                </table>
             </p>
             <p>
-               <pb n="8" facs="tcp:013319_0008_0F904EDE2B5FDDD8"/>
+               <pb n="8" facs="unknown:013319_0008_0F904EDE2B5FDDD8"/>
                <table>
                   <row>
                      <cell role="label">
@@ -426,7 +427,7 @@
                </table>
             </p>
             <p>
-               <pb n="9" facs="tcp:013319_0009_0F904EDF64837150"/>
+               <pb n="9" facs="unknown:013319_0009_0F904EDF64837150"/>
                <table>
                   <row>
                      <cell role="label">
@@ -492,7 +493,7 @@
                </table>
             </p>
             <p>
-               <pb n="10" facs="tcp:013319_0010_0F904EDFF9E88238"/>
+               <pb n="10" facs="unknown:013319_0010_0F904EDFF9E88238"/>
                <table>
                   <row>
                      <cell role="label">
@@ -528,7 +529,7 @@
             <p>Position of a Soldier under Arms.</p>
             <p>TO stand straight and firm upon his Legs; Head turned to the Right; Heels close; Toes a little turned out; Belly drawn in a little, but without Constraint; the Breast a little projected; Shoulders square to the Front, and kept back; the Right-Hand hanging strait down the Side, with the Palm close to the Thigh; the Left Elbow not to be turned out from the Body; the Firelock to be carried on the Left Shoulder, as low down as can be admitted without Constraint; the three last Fingers under the Butt; the Fore-Finger and Thumb before the Swell; the Flat of the Butt to be supported against the Hip-Bone, and to be pressed so that the Firelock may be felt against the Left Side, and that it may stand before the Hollow of the Shoulder, not leaning towards the Head nor from it; the Barrel almost perpendicular.—To be very exact in counting a Second of Time, or <hi>One, Two,</hi> between each Motion.</p>
             <p>
-               <pb n="11" facs="tcp:013319_0011_0F904EE156BD4DE8"/>
+               <pb n="11" facs="unknown:013319_0011_0F904EE156BD4DE8"/>
                <table>
                   <head>Explanation of <hi>Priming</hi> and <hi>Loading.</hi>
                   </head>
@@ -564,7 +565,7 @@
                </table>
             </p>
             <p>
-               <pb n="12" facs="tcp:013319_0012_0F904EE1E3C09298"/>
+               <pb n="12" facs="unknown:013319_0012_0F904EE1E3C09298"/>
                <table>
                   <head>Explanations of the Position of each Rank in the <hi>Firings.</hi>
                   </head>
@@ -597,7 +598,7 @@
                </table>
             </p>
             <p>
-               <pb n="13" facs="tcp:013319_0013_0F904EE5471D0B80"/>
+               <pb n="13" facs="unknown:013319_0013_0F904EE5471D0B80"/>
                <table>
                   <row>
                      <cell role="label">
@@ -632,7 +633,7 @@
                </table>
             </p>
             <p>
-               <pb n="14" facs="tcp:013319_0014_0F904EE6A46ACCB8"/>
+               <pb n="14" facs="unknown:013319_0014_0F904EE6A46ACCB8"/>
                <table>
                   <row>
                      <cell role="label">
@@ -699,7 +700,7 @@
             </closer>
          </div>
          <div type="part">
-            <pb n="15" facs="tcp:013319_0015_0F904EE843654B10"/>
+            <pb n="15" facs="unknown:013319_0015_0F904EE843654B10"/>
             <head>The following is the Method generally practis'd by the Regiments at Reviews and Field-Days, in performing the Firings, Evolutions, &amp;c. &amp;c.</head>
             <head type="sub">A Regiment to be drawn up as in <hi>Fig. 1st. Plate 1st.</hi> Viz.</head>
             <p>IN three Ranks, at six Paces, or twelve Feet, Distance from one another·</p>
@@ -723,7 +724,7 @@
             <p>The Reviewing General to be received with the Compliment due to his Rank, according to the King's Regulation of Honours.</p>
             <p>Before the General Officer appears (if above the Rank of a Major-General) the Bayonets to be fixed.</p>
             <p>
-               <pb n="16" facs="tcp:013319_0016_0F904EE98BE793B0"/>
+               <pb n="16" facs="unknown:013319_0016_0F904EE98BE793B0"/>
                <table>
                   <head>The General Officer being within twenty Yards of the Right of the Battalion, the Major gives the Word:</head>
                   <row>
@@ -780,7 +781,7 @@
                </table>
             </p>
             <p>
-               <pb n="17" facs="tcp:013319_0017_0F904EEA2DC2CC48"/>
+               <pb n="17" facs="unknown:013319_0017_0F904EEA2DC2CC48"/>
                <table>
                   <row>
                      <cell role="label">
@@ -833,7 +834,7 @@
                </table>
             </p>
             <p>
-               <pb n="18" facs="tcp:013319_0018_0F904EEB1359E350"/>
+               <pb n="18" facs="unknown:013319_0018_0F904EEB1359E350"/>
                <table>
                   <row>
                      <cell role="label">
@@ -889,7 +890,7 @@
                </table>
             </p>
             <p>
-               <pb n="19" facs="tcp:013319_0019_0F904EEBA50FF5F8"/>
+               <pb n="19" facs="unknown:013319_0019_0F904EEBA50FF5F8"/>
                <table>
                   <row>
                      <cell role="label">
@@ -947,7 +948,7 @@
                </table>
             </p>
             <p>
-               <pb n="20" facs="tcp:013319_0020_0F904EEC6618B750"/>
+               <pb n="20" facs="unknown:013319_0020_0F904EEC6618B750"/>
                <table>
                   <row>
                      <cell role="label">
@@ -1009,7 +1010,7 @@
             </p>
             <figure/>
             <p>
-               <pb n="21" facs="tcp:013319_0022_0F904EEDF64A6060"/>
+               <pb n="21" facs="unknown:013319_0022_0F904EEDF64A6060"/>
                <table>
                   <row>
                      <cell role="label">
@@ -1037,7 +1038,7 @@
                </table>
             </p>
             <p>
-               <pb n="22" facs="tcp:013319_0023_0F904EEEC14CBF98"/>
+               <pb n="22" facs="unknown:013319_0023_0F904EEEC14CBF98"/>
                <table>
                   <row>
                      <cell role="label">
@@ -1140,7 +1141,7 @@
                </table>
             </p>
             <p>
-               <pb n="23" facs="tcp:013319_0024_0F904EEF74704160"/>
+               <pb n="23" facs="unknown:013319_0024_0F904EEF74704160"/>
                <table>
                   <row>
                      <cell role="label">
@@ -1228,7 +1229,7 @@
                </table>
             </p>
             <p>
-               <pb n="24" facs="tcp:013319_0025_0F904EF04376DF10"/>
+               <pb n="24" facs="unknown:013319_0025_0F904EF04376DF10"/>
                <table>
                   <row>
                      <cell role="label">
@@ -1333,7 +1334,7 @@
                </table>
             </p>
             <p>
-               <pb n="25" facs="tcp:013319_0026_0F904EF1997E94B0"/>
+               <pb n="25" facs="unknown:013319_0026_0F904EF1997E94B0"/>
                <table>
                   <row>
                      <cell role="label">
@@ -1435,7 +1436,7 @@
             </p>
          </div>
          <div type="part">
-            <pb n="26" facs="tcp:013319_0027_0F904EF1B6C3FD30"/>
+            <pb n="26" facs="unknown:013319_0027_0F904EF1B6C3FD30"/>
             <head>Instructions for young OFFICERS.</head>
             <byline>By General <hi>WOLFE.</hi>
             </byline>
@@ -1452,7 +1453,7 @@
             <p>A young officer should never think he does too much; they are to attend to the looks of the men, and if any are thinner or paler than usual, the reasons of their falling off may be enquired into, and proper means used to restore them to their former vigour.</p>
          </div>
          <div type="part">
-            <pb n="27" facs="tcp:013319_0028_0F904EF276F90368"/>
+            <pb n="27" facs="unknown:013319_0028_0F904EF276F90368"/>
             <head>MANOEUVRES USUALLY PRACTISED.</head>
             <p>
                <table>
@@ -1564,7 +1565,7 @@
                </table>
             </p>
             <p>
-               <pb n="28" facs="tcp:013319_0029_0F904EF328AD7B90"/>
+               <pb n="28" facs="unknown:013319_0029_0F904EF328AD7B90"/>
                <table>
                   <head>Advancing and Retreating by Files, from the Right of Grand Divisions, as in Plate 2d. Fig. II.</head>
                   <row>
@@ -1653,7 +1654,7 @@
                </table>
             </p>
             <p>
-               <pb n="29" facs="tcp:013319_0030_0F904EF3F013CCE0"/>
+               <pb n="29" facs="unknown:013319_0030_0F904EF3F013CCE0"/>
                <table>
                   <head>Advancing by Files from the Center of Grand-Divisions, Plate 2d. Fig. III.</head>
                   <row>
@@ -1737,7 +1738,7 @@
                </table>
             </p>
             <p>
-               <pb n="30" facs="tcp:013319_0031_0F904EF523980F80"/>
+               <pb n="30" facs="unknown:013319_0031_0F904EF523980F80"/>
                <table>
                   <head>Advancing by Files from the Center of each Wing. Plate 2d. Fig. IV.</head>
                   <row>
@@ -1814,7 +1815,7 @@
                </table>
             </p>
             <p>
-               <pb n="31" facs="tcp:013319_0032_0F904EF5B2146388"/>
+               <pb n="31" facs="unknown:013319_0032_0F904EF5B2146388"/>
                <table>
                   <head>Advancing by Files from the Center of the Battalion. Plate 2d. Fig. V.</head>
                   <row>
@@ -1890,7 +1891,7 @@
                </table>
             </p>
             <p>
-               <pb n="32" facs="tcp:013319_0033_0F904EF7065A9640"/>
+               <pb n="32" facs="unknown:013319_0033_0F904EF7065A9640"/>
                <table>
                   <head>From the Right of the Left Wing, forming the Oblong Square by Companies. Plate 2d. Fig. VI.</head>
                   <row>
@@ -1950,7 +1951,7 @@
                </table>
             </p>
             <p>
-               <pb n="33" facs="tcp:013319_0034_0F904EF7A59B22E0"/>
+               <pb n="33" facs="unknown:013319_0034_0F904EF7A59B22E0"/>
                <table>
                   <row>
                      <cell role="label">
@@ -2015,7 +2016,7 @@
                </table>
             </p>
             <p>
-               <pb n="34" facs="tcp:013319_0035_0F904EFAAFB47A88"/>
+               <pb n="34" facs="unknown:013319_0035_0F904EFAAFB47A88"/>
                <table>
                   <head>Forming Columns by Companies from the Center of the Battalion. Plate 2d. Fig. VIII.</head>
                   <row>
@@ -2051,7 +2052,7 @@
                </table>
             </p>
             <p>
-               <pb n="35" facs="tcp:013319_0036_0F904EFC5B1F4878"/>
+               <pb n="35" facs="unknown:013319_0036_0F904EFC5B1F4878"/>
                <table>
                   <head>Forming Columns by Grand Divisions from the Right. Plate 2d. Fig. IX.</head>
                   <row>
@@ -2085,7 +2086,7 @@
                </table>
             </p>
             <p>
-               <pb n="36" facs="tcp:013319_0037_0F904EFD34CDD280"/>
+               <pb n="36" facs="unknown:013319_0037_0F904EFD34CDD280"/>
                <table>
                   <head>Passing a Defilé or Bridge by Half Companies from the <hi>Center. N. B.</hi> There are various Methods practis'd in performing this Manoeuvre, among others the following, <hi>viz. Plate 2d. Fig. X.</hi>
                   </head>
@@ -2135,7 +2136,7 @@
             </p>
             <figure/>
             <p>
-               <pb n="37" facs="tcp:013319_0039_0F904EFF77F40538"/>
+               <pb n="37" facs="unknown:013319_0039_0F904EFF77F40538"/>
                <table>
                   <head>A Charge and Volley by Battalion.</head>
                   <row>
@@ -2250,7 +2251,7 @@
                </table>
             </p>
             <p>
-               <pb n="38" facs="tcp:013319_0040_0F904F00242C7F80"/>
+               <pb n="38" facs="unknown:013319_0040_0F904F00242C7F80"/>
                <table>
                   <row>
                      <cell role="label">
@@ -2294,7 +2295,7 @@
             <p>N. B. <hi>There are several other Manoeuvres, sometimes practis'd by the British Regiments in Europe. The Nature of the Service in America is such, that they are almost, if not entirely useless to the Troops serving in this Country, they are not therefore here inserted.</hi>
             </p>
             <p>
-               <pb n="39" facs="tcp:013319_0041_0F904F00A9186E78"/>In dressing Ranks, the Soldiers are to observe, to stand upright, and without stooping to cast their Eyes smartly to the Right and Left, and see the third Man's Breast, taking Care to keep Six Inches distance between the Files.</p>
+               <pb n="39" facs="unknown:013319_0041_0F904F00A9186E78"/>In dressing Ranks, the Soldiers are to observe, to stand upright, and without stooping to cast their Eyes smartly to the Right and Left, and see the third Man's Breast, taking Care to keep Six Inches distance between the Files.</p>
             <p>In covering their File Leaders, they must look between their Heads and the Firelocks.</p>
             <p>In Marching and Wheeling, they must observe the same Rule as in dressing the Ranks, lift up their Feet with stiff Knees, and set them down firm without stamping, and not to drag the Feet back, but to move the Body, without shaking from one Side to the other.</p>
             <p>In order the Divisions may wheel with Celerity, when they receive the Word <hi>March!</hi> the Flanks are to step off with a quick, but strong Pace. As soon as the Wheel is performed, a Signal is given from the Flank, on which they catch the slow Pace again.</p>
